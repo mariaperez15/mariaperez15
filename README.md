@@ -1,6 +1,6 @@
-<h1 align="center">Hi :hola:, I'm María Pérez Pascual</h1>
+<h1 align="center">Hi, I'm María Pérez Pascual</h1>
 <h3 align="center">A passionate frontend developer from Madrid</h3>
-- :buzón: How to reach me **mariaperezdev@gmail.com**
+How to reach me **mariaperezdev@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mar%c3%ada-p%c3%a9rez-pascual-29a88a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mar%c3%ada-p%c3%a9rez-pascual-29a88a1a9" height="30" width="40" /></a>
